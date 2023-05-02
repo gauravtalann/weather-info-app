@@ -1,4 +1,4 @@
-# "Simple Weather Application using HTML, CSS &amp; JavaScript"
+# "Simple Weather Application using HTML, CSS &amp; JavaScript Deployed using AWS s3 "
 
 ## Overview of Weather App
 
